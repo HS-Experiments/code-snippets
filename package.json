@@ -1,0 +1,19 @@
+{
+  "name": "resources",
+  "version": "0.0.1",
+  "description": "Code Sharing Site",
+  "main": "index.js",
+  "authors": {
+    "name": "Harshad",
+    "email": "harshad.satra2@gmail.com"
+  },
+  "repository": "/code-snippets",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
